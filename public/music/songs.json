@@ -1,0 +1,10 @@
+{
+    "playlist1": [
+      { "title": "Song 1", "src": "music/playlist1/Maahi_Ve.mp3" },
+      { "title": "Song 2", "src": "music/playlist1/Enna_Sona.mp3" }
+    ],
+    "playlist2": [
+      { "title": "Song 1", "src": "music/playlist2/Enna_Sona.mp3" }
+    ]
+  }
+  

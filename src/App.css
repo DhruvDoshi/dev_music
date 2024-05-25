@@ -1,0 +1,24 @@
+body {
+  background-color: #121212;
+  color: white;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+
+h4, h6 {
+  color: #1db954;
+}
+
+.MuiContainer-root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.rhap_container {
+  background: #282828;
+  color: white;
+}
+
+.rhap_container .rhap_time {
+  color: white;
+}
